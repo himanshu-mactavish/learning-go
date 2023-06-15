@@ -11,7 +11,7 @@ type Person struct {
 	Age       int
 }
 
-func main2() {
+func main() {
 	people := []Person{
 		{"pat", "Patterson", 17},
 		{"Tracey", "Bobbert", 23},
